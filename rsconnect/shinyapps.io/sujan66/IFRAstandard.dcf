@@ -1,0 +1,14 @@
+name: IFRAstandard
+title: IFRAstandard
+username:
+account: sujan66
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4835262
+bundleId: 5121796
+url: https://sujan66.shinyapps.io/IFRAstandard/
+when: 1633791901.39592
+lastSyncTime: 1633791901.39592
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|backup.txt|cleaning.R|ifra-50th-amendment.pdf|ifra-standards---49th-amendment.zip|IFRA-Standards.rar|ifra_standards.csv|Missing compounds.txt|Prohibition-restriction.R|rebuilt.ifra-standards---49th-amendment.zip|res.json|restriction.R|rose_ketone.R|scraping.R|Standards
